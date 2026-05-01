@@ -1,0 +1,16 @@
+BasedOnStyle: GNU
+IndentWidth: 2
+UseTab: Never
+BreakBeforeBraces: GNU
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+ColumnLimit: 79
+PointerAlignment: Left
+SpaceAfterCStyleCast: false
+SpaceBeforeParens: ControlStatements
+SpaceBeforeAssignmentOperators: true
+AlignAfterOpenBracket: Align
+KeepEmptyLinesAtTheStartOfBlocks: false
+BinPackParameters: false
+BinPackArguments: false
